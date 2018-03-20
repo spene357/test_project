@@ -46,3 +46,7 @@ function aFunc() {
 function bFunc() {
 
 }
+// add a new function
+function cFunc(0 {
+	...........
+}
