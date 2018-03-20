@@ -13,6 +13,12 @@ add another line, changing this line
 
 this should not conflict
 
-function testFunc(0 {
+function testFunc() {
 	some code.........
+}
+
+adding some code for Jared branch
+
+function someFunc() {
+
 }
