@@ -24,7 +24,15 @@ function someFunc() {
 }
 
 
+
+create a worktree:
+git worktree add -b spene357 ./branches/spene357 master
+
+push worktree to server:
+git push origin spene357
+
 List worktrees: 'git worktree list'
+
 To delete a worktree:
 1. delete the folder
 2. run 'git worktree prune'
