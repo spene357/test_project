@@ -22,3 +22,10 @@ adding some code for Jared branch
 function someFunc() {
 
 }
+
+
+List worktrees: 'git worktree list'
+To delete a worktree:
+1. delete the folder
+2. run 'git worktree prune'
+3. delete the branch, run 'git branch -d <branch-name>
