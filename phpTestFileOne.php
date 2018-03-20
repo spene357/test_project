@@ -12,3 +12,7 @@ add another line
 
 
 this should not conflict
+
+function testFunc(0 {
+	some code.........
+}
