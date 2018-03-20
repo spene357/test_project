@@ -33,3 +33,8 @@ To delete a worktree:
 function aFunc() {
 	some code..........
 }
+
+// another func
+function bFunc() {
+
+}
