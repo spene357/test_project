@@ -29,3 +29,7 @@ To delete a worktree:
 1. delete the folder
 2. run 'git worktree prune'
 3. delete the branch, run 'git branch -d <branch-name>
+
+function aFunc() {
+	some code..........
+}
